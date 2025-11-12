@@ -3,7 +3,7 @@ This repo holds the code and thesis for my MSci Natural Sciences master's projec
 The project aimed to produce an object-oriented Monte Carlo simulation of a cosmic muon detector setup commonly used in schools/universities, which could be
 used to better understand the limitations of the setup. The project ran for the 2021/22 academic year (Sep '21 - Jul '22).
 
-The original code is presented in [`muon-sim.ipynb`](https://github.com/Hugo-Neely/muon-detector-sim/blob/main/muon-sim.ipynb). The submitted thesis text is available in [`thesis.pdf`](https://github.com/Hugo-Neely/muon-detector-sim/blob/main/thesis.pdf), 
-and the associated literature survey and outline submitted in the first month of the projectis presented in [`lit-review.pdf`](https://github.com/Hugo-Neely/muon-detector-sim/blob/main/lit-review.pdf).
+The original code is presented in [`muon-sim.ipynb`](muon-sim.ipynb). The submitted thesis text is available in [`thesis.pdf`](thesis.pdf), 
+and the associated literature survey and outline submitted in the first month of the projectis presented in [`lit-review.pdf`](lit-review.pdf).
 
 There are no plans to further develop this project, though I may come back to it at some point if inspiration strikes!
