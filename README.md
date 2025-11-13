@@ -5,5 +5,7 @@ used to better understand the limitations of the setup. The project ran for the 
 
 The original code is presented in [`muon-sim.ipynb`](muon-sim.ipynb). The submitted thesis text is available in [`thesis.pdf`](thesis.pdf), 
 and the associated literature survey and outline submitted in the first month of the projectis presented in [`lit-review.pdf`](lit-review.pdf).
+The work was partially inspired by my 3rd year/BSc thesis - a literature review on the field of muon tomography. This document 
+can be found in [`BSc-lit-review.pdf`](BSc-lit-review.pdf).
 
 There are no plans to further develop this project, though I may come back to it at some point if inspiration strikes!
